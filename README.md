@@ -40,6 +40,8 @@ npm run dev
 
 El servidor debería estar corriendo en `http://localhost:3000`. A partir de ahí, podrás probar las diferentes rutas de la API.
 
+Para probar desde SWAGGER, la documentacion esta en `http://localhost:3000/api/docs`.
+
 ## Probando la API
 
 Recomiendo utilizar **Insomnia** para probar los endpoints de la API, ya que es el que utilicé para este proyecto. A continuación te dejo las instrucciones para usar Insomnia, pero también puedes usar Postman si lo prefieres.
