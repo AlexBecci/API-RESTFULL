@@ -7,7 +7,7 @@ Este proyecto contiene una API que permite gestionar registros a través de dife
 
 Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en tu sistema:
 
-- **Node.js** (versión recomendada: 14.x o superior)
+- **Node.js** 
 - **MySQL** o **MariaDB** para la base de datos
 - **Insomnia** (o Postman, aunque Insomnia es el recomendado para este proyecto)
 
@@ -24,7 +24,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en t
    Dirígete a la carpeta `database` del proyecto y ejecuta los archivos `.sql` que contiene para crear las tablas necesarias. Asegúrate de tener una base de datos en MySQL/MariaDB configurada para este fin.
 
    ```sql
-   -- Archivo de ejemplo: database/schema.sql
+   -- Archivo de ejemplo: database/registros.sql
    -- Ejecuta los comandos SQL en tu cliente de base de datos
    ```
 
