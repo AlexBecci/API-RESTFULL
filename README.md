@@ -47,7 +47,7 @@ Recomiendo utilizar **Insomnia** para probar los endpoints de la API, ya que es 
 ### Instrucciones para Insomnia
 
 1. **Descargar la colección de Insomnia**:  
-   [Descargar colección de Insomnia](./mi-coleccion.json)
+   En la raiz de este proyecto encontraras un archivo mi-coleccion descargalo desde las herramienta de github
 
 2. Abre **Insomnia**.
 3. Haz clic en **"Import"** y selecciona el archivo descargado para cargar la colección.
@@ -55,7 +55,7 @@ Recomiendo utilizar **Insomnia** para probar los endpoints de la API, ya que es 
 ### Instrucciones para Postman
 
 1. **Descargar la colección de Postman**:  
-   [Descargar colección de Postman](./mi-coleccion.json)
+   En la raiz de este proyecto encontraras un archivo mi-coleccion descargalo desde las herramienta de github
 
 2. Abre **Postman**.
 3. Haz clic en **"Import"** y selecciona el archivo descargado para cargar la colección.
